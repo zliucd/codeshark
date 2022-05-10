@@ -1,12 +1,13 @@
-# CodeFun
+# CodeShark
 
-**CodeFun** is a collection of code snippets written in C (and partially C++) on data structures, algorithms, information contests and other interesting stuff.
+**CodeShark** is a collection of code snippets written in C (and limited C++) on data structures, algorithms, information contests and other interesting stuff.
 
-The goal of CodeFun is to show the powerfulness, elegance and performance of C code with following concepts:
+The goal of CodeShark is to show the powerfulness, simplicity and elegance of C code with following concepts:
  - Good coding standards
+ - Efficient and clean memory useage
  - Reasonable project structure
- - Efficient and clean memory useage with strong check using de-facto tools
  - Cross platform to be compiled and executed in different systems and architectures
+ - minimal use of C++, only use ```class```, ```new/delete``` and basic containers
 
 
 # License
